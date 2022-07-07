@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This is my alt, and why are you looking at it when I don't actually use it at all?
+
 <!--
 **raymond-2006/raymond-2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
